@@ -1,10 +1,9 @@
-- 👋 Hi, I’m Lautaro Gonzalez Ruiz
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-LautaroGruiz/LautaroGruiz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ <h1>👋 ¡Hola, me llamo Lautaro Gonzalez Ruiz!</h1>
+<div id="badges">
+  <a href="https://www.linkedin.com/in/lautagruiz/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="lautawork@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div> 
