@@ -18,4 +18,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LautaroGruiz&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LautaroGruiz&theme=dark)](https://git.io/streak-stats)
+
+
+
