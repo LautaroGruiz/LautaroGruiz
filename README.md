@@ -1,5 +1,5 @@
 <h1>👋🏻 ¡Hola, me llamo Lautaro Gonzalez Ruiz!</h1>
-<h3>🌍 Tucuman, Argentina</h3>
+<h3>🌍 Tucumán, Argentina</h3>
    <a href="https://www.linkedin.com/in/lautagruiz/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a> 
@@ -18,7 +18,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LautaroGruiz&theme=dark)](https://git.io/streak-stats)
 
+<h2>Estadísticas</h2>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LautaroGruiz&layout=compact&theme=vision-friendly-dark)](https://github.com/LautaroGruiz/github-readme-stats)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LautaroGruiz&theme=dark)
