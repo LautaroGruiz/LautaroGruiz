@@ -7,9 +7,9 @@
     <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Youtube Badge"/>
   </a>
   <h2>Desarrollador Full Stack 👨🏻‍💻</h2>
-  <p>Soy apasionado por la tecnología. Con una sólida base de conocimientos en lenguajes de programación, frameworks y tecnologías web, estoy comprometido con el aprendizaje continuo y la resolución de problemas creativos. </p>
-  <p>Mi enfoque proactivo y mi capacidad para adaptarme rápidamente a nuevos desafíos me permiten abordar proyectos de manera efectiva. </p>
-  <p>Estoy emocionado de seguir expandiendo mi conocimiento y trabajar en proyectos desafiantes que impulsen la innovación tecnológica.</p>
+  <p>Soy un Desarrollador Front End con un enfoque especial en JavaScript y frameworks como ReactJS🚀</p>
+  <p>He trabajado en proyectos personales para aplicar mis habilidades en situaciones reales y he demostrado ser capaz de trabajar tanto de manera independiente como en equipos colaborativos.</p>
+  <p>Estoy entusiasmado por formar parte de un equipo dinámico y desafiante en un entorno que fomente la innovación y el crecimiento.💡✨</p>
   <h3>Lenguajes y Herramientas</h3> 
   <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
