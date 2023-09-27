@@ -6,7 +6,7 @@
   <a href="mailto:lautawork@gmail.com">
     <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <h2>Desarrollador Full Stack 👨🏻‍💻</h2>
+  <h2>Desarrollador Front End 👨🏻‍💻</h2>
   <p>Soy un Desarrollador Front End con un enfoque especial en JavaScript y frameworks como ReactJS🚀</p>
   <p>He trabajado en proyectos personales para aplicar mis habilidades en situaciones reales y he demostrado ser capaz de trabajar tanto de manera independiente como en equipos colaborativos.</p>
   <p>Estoy entusiasmado por formar parte de un equipo dinámico y desafiante en un entorno que fomente la innovación y el crecimiento.💡✨</p>
